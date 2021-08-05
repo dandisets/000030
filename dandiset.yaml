@@ -18,7 +18,8 @@ description: A Neuropixels recording from a head-fixed mouse acquired at the All
   the dentate gyrus, and the thalamus (LP).
 id: DANDI:000030/draft
 identifier: DANDI:000030
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000030/versions/draft/assets/
 name: Allen Brain Observatory Neuropixels recording
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
